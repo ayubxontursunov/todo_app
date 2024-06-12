@@ -21,26 +21,24 @@ A simple and intuitive web application for managing your daily tasks. This Djang
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/ayubxontursunov/todo_app.git
    cd todo-list-app
    ```
 
 2. **Install Dependencies**
-```sh
-pip install django
-```
+   ```sh
+   pip install django
+   ```
 
 3. **Apply Migrations**
-
-```sh
-python manage.py migrate
-```
+   ```sh
+   python manage.py migrate
+   ```
 
 4. **Run the Server**
-
-```sh
-python manage.py runserver
-```
+   ```sh
+   python manage.py runserver
+   ```
 
 ## Usage
 1. Access the Application
