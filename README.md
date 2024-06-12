@@ -42,14 +42,13 @@ A simple and intuitive web application for managing your daily tasks. This Djang
 
 ## Usage
 1. Access the Application
- - Open your web browser and navigate to `http://127.0.0.1:8000/`.
+   - Open your web browser and navigate to `http://127.0.0.1:8000/`.
 
 2. Add a Task
-
- - Fill out the form with the task details and click 'Submit'.
+   - Fill out the form with the task details and click 'Submit'.
 
 3. Delete a Task
- - Click the remove button next to the task you want to delete.
+   - Click the remove button next to the task you want to delete.
 
 ## License
 
